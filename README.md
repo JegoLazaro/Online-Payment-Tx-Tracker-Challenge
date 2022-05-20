@@ -1,6 +1,3 @@
-# ccapdev-2021t2-mc03
-Mini Challenge 3 for CCAPDEV2021T2
-
 ## General Instructions
 - **READ THE INSTRUCTIONS FIRST BEFORE PROCEEDING!**
 - You are provided with a skeleton code for this Mini-Challenge. You are **NOT ALLOWED** to modify any part of the code unless specified. Editable parts of code are marked with `TODO` comments.
